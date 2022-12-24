@@ -1,31 +1,28 @@
 .friendMessage {
-
+    
 }
 
 .friendImageAndText {
-
+    
 }
 
 .friendImageAndText img {
-
+    
 }
 
 .friendText {
+   
+
+    
 
 }
 
-.friendText:after {
-
-}
+.friendText:after {}
 
 .friendName {
-
+    
 }
 
-.friendMessageText {
+.friendMessageText {}
 
-}
-
-.friendTime {
-
-}
+.friendTime {}

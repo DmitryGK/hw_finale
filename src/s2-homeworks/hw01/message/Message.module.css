@@ -1,31 +1,19 @@
-.message {
+.message {}
 
-}
-
-.imageAndText {
-
-}
+.imageAndText {}
 
 .imageAndText img {
-
+    
 }
 
 .text {
-
+    
 }
 
-.text:after {
+.text:after {}
 
-}
+.name {}
 
-.name {
+.messageText {}
 
-}
-
-.messageText {
-
-}
-
-.time {
-
-}
+.time {}
